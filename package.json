@@ -1,0 +1,16 @@
+{
+  "name": "e",
+  "version": "1.0.0",
+  "description": "In this mini-project, you will build Rest API routes for creating, retrieving, and deleting movies from a MySQL database.",
+  "main": "index.js",
+  "scripts": {
+     "devStart": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
