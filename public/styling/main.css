@@ -1,0 +1,23 @@
+*{
+    font-size: 25px;
+    color: #000;
+}
+
+body{
+    background-color:rgb(108, 22, 22)
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+
+nav {
+    border-radius: 10px;
+}
