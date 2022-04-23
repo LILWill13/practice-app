@@ -21,3 +21,15 @@ h1 {
 nav {
     border-radius: 10px;
 }
+
+#cards {
+    display: flex; 
+    flex-wrap:wrap;
+    width: 100%;
+    justify-content: center;
+}
+
+.card{
+    width:50%;
+    
+}
